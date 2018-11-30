@@ -54,6 +54,8 @@ WebSettings webSettings;
         webSettings.setJavaScriptEnabled(true);
         webView.loadUrl("http://m.naver.com");
 
+        Log.d("", "Test");
+
 
     }
 
